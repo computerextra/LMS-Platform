@@ -6,6 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 
+# Database
+/prisma/dev.db
+
 # testing
 /coverage
 
